@@ -1,6 +1,6 @@
 #!/bin/bash
 #auther:fanxuanhui
-
+#
 USAGE(){
 	echo "Usage: .$0 [ to2 | to3 ]"
 	echo "to2 : switch to python2.7"
